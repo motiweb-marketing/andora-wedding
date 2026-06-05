@@ -1,0 +1,6 @@
+{
+  "name": "Andora Wedding & Events",
+  "description": "Ankara'nın en prestijli düğün salonu ve etkinlik merkezi kurumsal web sitesi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
