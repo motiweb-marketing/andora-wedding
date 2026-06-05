@@ -18,7 +18,7 @@ export default function About() {
             <div className="relative">
               <div className="rounded-3xl overflow-hidden shadow-xl aspect-[4/3] border border-champagne-100">
                 <img
-                  src="https://images.unsplash.com/photo-1544078751-58feb2d78f54?auto=format&fit=crop&q=80&w=800"
+                  src="https://images.unsplash.com/photo-1532712938310-34cb3982ef74?auto=format&fit=crop&q=80&w=800"
                   alt="Andora salon içi masa dizaynı detayları"
                   className="w-full h-full object-cover"
                   referrerPolicy="no-referrer"

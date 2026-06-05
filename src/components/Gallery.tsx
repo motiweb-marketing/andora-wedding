@@ -34,7 +34,7 @@ export default function Gallery() {
       category: "exterior",
       categoryLabel: "Dış Mekan & Giriş",
       title: "Karşılama Kokteyli Alanı ve Kırmızı Halı Detayı",
-      imageUrl: "https://images.unsplash.com/photo-1507504038482-76210f5c0be1?auto=format&fit=crop&q=80&w=800",
+      imageUrl: "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&q=80&w=800",
     },
     {
       id: "gal-5",
@@ -48,7 +48,7 @@ export default function Gallery() {
       category: "decoration",
       categoryLabel: "Düğün Dekorasyonu",
       title: "Sıcak Peri Işıkları ve Şık Mum Ayrıntıları",
-      imageUrl: "https://images.unsplash.com/photo-1519225495810-7517c29a2e19?auto=format&fit=crop&q=80&w=800",
+      imageUrl: "https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6?auto=format&fit=crop&q=80&w=800",
     },
   ];
 

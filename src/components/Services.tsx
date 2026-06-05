@@ -29,7 +29,7 @@ export default function Services() {
       badge: "Kına & Nişan",
       title: "Geleneksel & Modern Kına Geceleri",
       description: "Kınanın tarihsel zarafeti ile modern konseptleri harmanlayarak, kız kıza eğlencenizi unutulmaz bir şölene dönüştürüyoruz.",
-      imageUrl: "https://images.unsplash.com/photo-1520854221150-cd11aa237179?auto=format&fit=crop&q=80&w=800",
+      imageUrl: "https://images.unsplash.com/photo-1606216794074-735e91aa2c92?auto=format&fit=crop&q=80&w=800",
       features: [
         "Lüks kına tahtı ve şık cibinlik tasarımları",
         "Profesyonel kına nedime dans göseri ekibi",
